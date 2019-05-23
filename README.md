@@ -12,7 +12,8 @@ You will need to authenticate with the WebDAV servers (i.e. Dropbox,
 Box, etc) to use these scripts. To do so, create an account at the below websites:
 
 [https://www.dropbox.com/](https://www.dropbox.com/)
-[https://app.box.com/login](https://app.box.com/login/)
+
+[https://app.box.com/login/](https://app.box.com/login/)
 
 Once you have created your storage account, you are ready to begin using the utilities.
 
