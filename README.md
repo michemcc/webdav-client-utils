@@ -1,6 +1,6 @@
 # Python WebDAV Client Utilities
 
-WebDAV is an HTTP extension used for cloud storage communication. This repository contains a set of Python scripts to demonstrate interactions with the Twitter API via the [WebDAV Client Utilities](https://github.com/michemcc/webdav-client-utils) module.
+WebDAV is an HTTP extension used for cloud storage communication. This repository contains a set of Python scripts to demonstrate interactions with cloud storage providers via the [WebDAV Client Utilities](https://github.com/michemcc/webdav-client-utils) module.
 
 ## Usage
 
